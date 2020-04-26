@@ -1,3 +1,6 @@
+# Andrea Rahmadanisya 1301184146
+# Vijay Cheza Pangestu 1301180351
+
 import random
 import numpy as np
 import matplotlib.pyplot as plt
