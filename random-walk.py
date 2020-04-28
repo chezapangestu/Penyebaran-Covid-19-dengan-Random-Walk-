@@ -43,7 +43,7 @@ imun = []
 # Inisial waktu infeksi
 WInfeksi.append(0)
 
-#---------------------------------
+#---------- ANIMASI 3D RANDOM -----------------------
 class ParticleBox:
     """Orbits class
 
