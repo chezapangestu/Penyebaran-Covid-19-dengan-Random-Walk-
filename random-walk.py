@@ -5,12 +5,8 @@ import random as rd
 import numpy as np
 import matplotlib.pyplot as plts
 #-------------------- animation -------------------
-import numpy as np
-from scipy.spatial.distance import pdist, squareform
-
-import matplotlib.pyplot as plt
-import scipy.integrate as integrate
-import matplotlib.animation as animation
+import pygame
+import sys
 #---------------------------------------------------
 
 # variabel Scalar
