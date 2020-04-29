@@ -4,7 +4,7 @@
 import random as rd
 import numpy as np
 import matplotlib.pyplot as plts
-#-------------------- animation --------------------
+#-------------------- animation -------------------
 import numpy as np
 from scipy.spatial.distance import pdist, squareform
 
@@ -191,3 +191,5 @@ ani = animation.FuncAnimation(fig, animate, frames=600,
 
 
 plt.show()
+#--------------------------------------------------
+
